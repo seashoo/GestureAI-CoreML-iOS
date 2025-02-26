@@ -14,7 +14,7 @@ Hand-gesture recognizer using CoreML
 
 This app is using RNN(Recurrent Neural network) with CoreML on iOS11. The model recognizes the gesture as long as the center button is pressed.
 
-Click [here](https://github.com/akimach/GestureAI) to read more about GestureAI.
+Click [here](https://github.com/seashoo/GestureAI) to read more about GestureAI.
 
 ## Install
 
@@ -31,8 +31,4 @@ See [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Mo
 
 ## Licence
 
-[MIT](https://github.com/akimach/GestureAI-iOS/blob/master/LICENSE)
-
-## Author
-
-[Akimasa KIMURA](https://github.com/akimach)
+[MIT](https://github.com/seashoo/GestureAI-iOS/blob/master/LICENSE)
